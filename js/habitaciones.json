@@ -1,0 +1,8 @@
+[
+    {"id":1, "nombre":"Habitación Cruel Summer", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg", "descripcion":"Cama doble y dos camas individuales", "precio": 30000}, 
+    {"id":2, "nombre":"Habitación Daylight", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg","descripcion":"Cama doble", "precio": 35000},
+    {"id":3, "nombre":"Habitación Afterglow", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg","descripcion":"Dos camas dobles", "precio": 40000},
+    {"id":4, "nombre":"Habitación The Archer", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg","descripcion":"Dos camas dobles y tres camas individuales", "precio": 45000},
+    {"id":5, "nombre":"Habitación Lover", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg","descripcion":"Cama doble", "precio": 50000},
+    {"id":6, "nombre":"Habitación Paper Rings", "imagen":"https://cdn.bueno-bonito-barcelona.com/wp-content/uploads/sites/2/2016/11/chambre-double1.jpg","descripcion":"Tres Camas doble", "precio": 55000}
+   ]

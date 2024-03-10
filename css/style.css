@@ -1,3 +1,23 @@
 .colorPagina{
     background-color: #d6ccc2;
 }
+
+.colorMenu{
+    background-color: #d6ccc2;
+    font-family: "Libre Baskerville", serif;
+    
+}
+
+.tituloHotel{
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    
+}
+
+.tituloSecundario{
+    font-family: "Libre Baskerville", serif;
+}
+
+.TextoReserva{
+    font-family: "Libre Baskerville", serif;
+}
